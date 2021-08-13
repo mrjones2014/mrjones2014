@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Mat 👋
 
-<!--
-**mrjones2014/mrjones2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer, passionate about online privacy, clean code, and dark themes 😎
 
-Here are some ideas to get you started:
+I’m a Certified Scrum Master and currently working as a web developer at 1Password. I'm an automation enthusiast, (Neo)Vim user, shell power-user, and animal lover.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌎 [Website](https://mjones.network)
+- 📰 [Blog](https://mjones.network/blog)
+- ⚡ [PolyWork](https://updates.mjones.network)
+- 📫 [Email](mailto:mat@mjones.network)
+
+---
+
+![mrjones2014's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjones2014&show_icons=true&count_private=true&theme=dark)
