@@ -2,7 +2,7 @@
 
 I'm a software engineer, passionate about online privacy, clean code, and dark themes 😎
 
-I’m a Certified Scrum Master and currently working as a web developer at 1Password. I'm an automation enthusiast, Neovim user, shell power-user, and animal lover.
+I’m a Certified Scrum Master and currently working as a developer at 1Password. I'm an automation enthusiast, Neovim user, shell power-user, and animal lover.
 
 - 📫 [Email](mailto:mat@mjones.network)
 - 🌎 [Website](https://mjones.network)
