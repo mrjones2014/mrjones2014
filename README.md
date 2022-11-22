@@ -11,5 +11,3 @@ My favorite programming languages currently are Rust, Go, and Lua. I like making
 - ❤️ [Sponsor](https://github.com/sponsors/mrjones2014)
 
 ---
-
-![mrjones2014's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrjones2014&show_icons=true&count_private=true&theme=dark)
