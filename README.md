@@ -1,4 +1,10 @@
+<div align="center">
+
+<img width="170px" src="https://github.com/mrjones2014/mrjones2014/raw/master/8648891.png" alt="profile picture">
+
 # Hi there, I'm Mat 👋
+
+</div>
 
 I'm a software engineer, passionate about online privacy, clean code, and dark themes 😎
 
@@ -11,3 +17,5 @@ My favorite programming languages currently are Rust, Go, and Lua. I like making
 - ❤️ [Sponsor](https://github.com/sponsors/mrjones2014)
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrjones2014&show_icons=true&theme=onedark)
