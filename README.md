@@ -18,4 +18,4 @@ My favorite programming languages currently are Rust, Go, and Lua. I like making
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrjones2014&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=mrjones2014&show_icons=true&theme=transparent" alt="GitHub stats" width="100%">
