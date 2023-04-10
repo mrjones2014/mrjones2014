@@ -15,7 +15,3 @@ My favorite programming languages currently are Rust, Go, and Lua. I like making
 - 📫 [Email](mailto:mat@mjones.network)
 - 🌎 [Website](https://mjones.network)
 - ❤️ [Sponsor](https://github.com/sponsors/mrjones2014)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrjones2014&show_icons=true&theme=transparent" alt="GitHub stats" width="100%">
