@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="170px" src="https://avatars.githubusercontent.com/u/8648891?v=4" alt="profile picture">
+<img width="170px" src="https://avatars.githubusercontent.com/u/8648891?s=400&u=b15701c2df372cea2542e0b74a898d8f1f0e7aca&v=4" alt="profile picture">
 
 # Hi there, I'm Mat 👋
 
