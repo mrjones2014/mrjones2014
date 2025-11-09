@@ -4,12 +4,17 @@
 
 </div>
 
-I'm a software engineer, passionate about digital privacy, clean code, and dark themes 😎
+I'm currently working as a Rust developer at 1Password
 
-I’m a Certified Scrum Master and currently working as a developer at 1Password. I'm an automation enthusiast, Neovim user, shell power-user, and I love my pets.
+### My current interests are...
 
-My favorite programming languages currently are Rust, Lua, and Nix. I like making Neovim plugins, command line tools, and other developer tools.
+- Neovim plugins and other developer tools
+- Nix and NixOS based configuration and automation
+- QMK keyboard firmware
+- Rust for security applications
 
-- 📫 [Email](mailto:mat@mjones.network)
-- 🌎 [Website](https://mjones.network)
-- ❤️ [Sponsor](https://github.com/sponsors/mrjones2014)
+### My favorite technologies right now are...
+
+- Rust
+- Nix and NixOS
+- QMK
