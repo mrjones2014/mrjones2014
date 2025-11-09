@@ -4,7 +4,7 @@
 
 </div>
 
-I'm currently working as a Rust developer at 1Password
+I'm currently working as a Rust developer at 1Password.
 
 ### My current interests are...
 
